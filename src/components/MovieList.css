@@ -1,0 +1,11 @@
+.container {
+  display: grid;
+  padding: 1rem;
+  grid-template-columns: repeat(6, 1fr);
+  grid-gap: 1rem;
+}
+
+
+img {
+  box-shadow: 0 0 35px black;
+}

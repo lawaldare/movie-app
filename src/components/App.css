@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  font-family: 'Asap', sans-serif;
+}
+
+.App-header {
+  background-color: #111;
+  height: 60px;
+  padding: 20px;
+  color: white;
+}
+
+.movie-title {
+  margin-top: 0;
+  letter-spacing: 10px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
